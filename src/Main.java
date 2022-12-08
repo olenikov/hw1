@@ -1,9 +1,8 @@
 public class Main {
     public static void main(String[] args) {
+        for(int i = 7; i <= 98; i = i + 7){
+            System.out.println( i );
 
-        int ab = 1;
-        for (int a = 1; a <= 10; a++) {
-                       ab = 2 * a ;
-            System.out.println("2*" + a + "=" + ab);
         }
     }
+  }  
