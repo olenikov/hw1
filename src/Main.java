@@ -1,7 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        for(int i = 7; i <= 98; i = i + 7){
-            System.out.println( i );
+        for(int i = 1; i <= 256; i = i * 2){
 
         }
     }
