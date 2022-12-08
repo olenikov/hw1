@@ -8,6 +8,4 @@ public class Main {
             mounth = mounth + 1;
             System.out.println("Месяц " + mounth + " сумма накоплений равна " + total + " рублей");
         }
-
-        }
     }
